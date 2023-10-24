@@ -14,7 +14,7 @@ namespace WeatherPredictionPortfolio.Controllers
         }
 
         public IActionResult Index()
-        {
+        { 
             return View();
         }
 
